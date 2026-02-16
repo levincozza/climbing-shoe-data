@@ -1,0 +1,1577 @@
+[
+  {
+    "rock_shoe_model": "Boreal Ace",
+    "category_a": "Drop 2 UK Sizes",
+    "category_b": "Drop 1.5 UK Sizes",
+    "category_c": "Drop 1 UK Size",
+    "category_d": "Drop 0.5 UK Size",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Alpha VC",
+    "category_a": "-",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Beta Wmns",
+    "category_a": "-",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Beta",
+    "category_a": "-",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Indo",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "High",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Boreal Indo Womens",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Boreal Joker Lace",
+    "category_a": "-",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Joker Lace Womens",
+    "category_a": "-",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Joker Plus Velcro",
+    "category_a": "-",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Lynx",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe size",
+    "category_d": "-",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Lynx Wmns",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe size",
+    "category_d": "-",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Ninja",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Satori",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Silex Lace",
+    "category_a": "-",
+    "category_b": "Drop 1.5 UK Size",
+    "category_c": "Drop 1 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Boreal Silex VC",
+    "category_a": "-",
+    "category_b": "Drop 1.5 UK Size",
+    "category_c": "Drop 1 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "EB Balboa",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 0.5 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "EB Black Opium",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 0.5 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "Buy 0.5 EU Size Larger",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "EB Django 3.0",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 0.5 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "Buy 0.5 EU Size Larger",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "EB Electron",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 0.5 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "Buy 0.5 EU Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "EB Guardian 3.0",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 0.5 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "Buy 0.5 EU Size Larger",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "EB Nebula",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 0.5 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "EB Red",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 0.5 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "Buy 0.5 EU Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Defy",
+    "category_a": "-",
+    "category_b": "Buy 0.5 UK Size Larger",
+    "category_c": "Buy1 UK Size Larger",
+    "category_d": "Buy 1.5 UK Size Larger",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Defy Lace (2021)",
+    "category_a": "-",
+    "category_b": "Buy0.5 UK Size Larger",
+    "category_c": "Buy1 UK Size Larger",
+    "category_d": "Buy 1.5 UK Size Larger",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Elektra",
+    "category_a": "-",
+    "category_b": "Buy0.5 UK Size Larger",
+    "category_c": "Buy1 UK Size Larger",
+    "category_d": "Buy1.5 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Elektra Lace",
+    "category_a": "-",
+    "category_b": "Buy0.5 UK Size Larger",
+    "category_c": "Buy1 UK Size Larger",
+    "category_d": "Buy1.5 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Geshido Lace (2021)",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "Buy 1 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Geshido Lace Wmns (2021)",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "Buy 1 UK Size Larger",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Geshido VC (2021)",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "Buy 1 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Geshido VC Wmns (2021)",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "Buy 1 UK Size Larger",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Kira",
+    "category_a": "BuyShoe Size",
+    "category_b": "Buy0.5 UK Size Larger",
+    "category_c": "Buy1 UK Size Larger",
+    "category_d": "Buy1.5 UK Size Larger",
+    "foot_volume": "Low",
+    "foot_type": "centre"
+  },
+  {
+    "rock_shoe_model": "Evolv Kronos",
+    "category_a": "BuyShoe Size",
+    "category_b": "Buy0.5 UK Size Larger",
+    "category_c": "Buy1 UK Size Larger",
+    "category_d": "Buy1.5 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Evolv Phantom",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy 1 Size Larger",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Phantom LV",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy1Size Larger",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Shaman",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy1Size Larger",
+    "category_d": "",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Shaman LV",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy1Size Larger",
+    "category_d": "",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Shaman Lace",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy1Size Larger",
+    "category_d": "",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Shaman Lace LV",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy1Size Larger",
+    "category_d": "",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Shaman Pro",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy1Size Larger",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Shaman Pro LV",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy1Size Larger",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv X1",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 UK Size Larger",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Evolv Zenist",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy1Size Larger",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Zenist Wmns",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy1Size Larger",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Evolv Zenist Pro",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 Size Larger",
+    "category_c": "Buy1Size Larger",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Five Ten Aleon",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 UK Size Larger",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Crawe",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "Buy 1 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Five Ten Anasazi Guide",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "-",
+    "foot_type": "-"
+  },
+  {
+    "rock_shoe_model": "Five Ten Anasazi VCS (2020)",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "Buy 1 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Anasazi Blanco",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Anasazi LV2",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Dragon",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Hiangle Synthetic",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Hiangle",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Hiangle Wmns",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Hiangle Pro",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 1 UK Size Larger",
+    "category_c": "Buy 1.5 UK Size Larger",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Kirigami",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "Buy 0.5 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Five Ten Kirigami Wmns",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "Buy 0.5 UK Size Larger",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Five Ten Niad VCS",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 UK Size Larger",
+    "category_c": "Buy 1 UK Size Larger",
+    "category_d": "Buy 1.5 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Niad VCS Wmns",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 UK Size Larger",
+    "category_c": "Buy 1 UK Size Larger",
+    "category_d": "Buy 1.5 UK Size Larger",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Niad Lace",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "Buy 1 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Niad Lace Wmns",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "Buy 1 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Five Ten Quantum VCS",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Five Ten Quantum Lace",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Finale",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 2 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Finale Women's",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 2 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Futura",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Genius",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Katana2023",
+    "category_a": "Drop 3.5 EU Sizes",
+    "category_b": "Drop 3 EU Sizes",
+    "category_c": "Drop 2 EU Sizes",
+    "category_d": "Drop 1 EU Size",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Katana 2024",
+    "category_a": "Drop 3 EU Sizes",
+    "category_b": "Drop 2 EU Sizes",
+    "category_c": "Drop 1.5 EU Sizes",
+    "category_d": "Drop 1 EU Size",
+    "foot_volume": "Low",
+    "foot_type": ""
+  },
+  {
+    "rock_shoe_model": "La Sportiva Katana Womens 2024",
+    "category_a": "Drop 3 EU Sizes",
+    "category_b": "Drop 2 EU Sizes",
+    "category_c": "Drop 1.5 EU Sizes",
+    "category_d": "Drop 1 EU Size",
+    "foot_volume": "Low",
+    "foot_type": ""
+  },
+  {
+    "rock_shoe_model": "La Sportiva Katana Lace",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Drop 0.5 EU Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Kataki",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Kubo",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Drop 0.5 EU Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Kubo Wmns",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Drop 0.5 EU Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Mandala",
+    "category_a": "Drop 2 EU",
+    "category_b": "Drop 1.5 EU",
+    "category_c": "Drop 1 EU",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": ""
+  },
+  {
+    "rock_shoe_model": "La Sportiva Mantra",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 2 EU Sizes",
+    "category_c": "Drop 1.5 EU Sizes",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Miura",
+    "category_a": "Drop 3 EU Sizes",
+    "category_b": "Drop 2.5 EU Sizes",
+    "category_c": "Drop 1.5 EU Size",
+    "category_d": "Drop 0.5 EU Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Miura VS",
+    "category_a": "Drop 3.5 EU Sizes",
+    "category_b": "Drop 3 EU Sizes",
+    "category_c": "Drop 2 EU Sizes",
+    "category_d": "NA",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Mythos",
+    "category_a": "-",
+    "category_b": "Drop 2 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Drop 0.5 EU Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Ondra Comp",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Sizes",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Otaki",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 1.5 EU size",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Skwama",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 1.5 EU size",
+    "category_c": "-",
+    "category_d": "NA",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Skwama Vegan",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 1.5 EU size",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Skwama Wmns",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 1.5 EU size",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Solution",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 1.5 EU size",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Solution Wmns",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 1.5 EU size",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Solution Comp",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 1.5 EU size",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Solution Comp Wmns",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 1.5 EU size",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Tarantula",
+    "category_a": "-",
+    "category_b": "Drop 2.5 EU Sizes",
+    "category_c": "Drop 2 EU Size",
+    "category_d": "Drop 1.5 EU Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Tarantula Boulder",
+    "category_a": "-",
+    "category_b": "Drop 2.5 EU Size",
+    "category_c": "Drop 2 EU Size",
+    "category_d": "Drop 1.5 EU Size",
+    "foot_volume": "High",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Tarantula Boulder Wmns",
+    "category_a": "-",
+    "category_b": "Drop 2.5 EU Size",
+    "category_c": "Drop 2 EU Size",
+    "category_d": "Drop 1.5 EU Size",
+    "foot_volume": "High",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "La Sportiva TC Pro",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Drop 0.5 EU Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Testarossa",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Theory",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Theory Womens",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Zenit",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "La Sportiva Zenit Wmns",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Circuit VCR",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "Buy 0.5 UK Size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Clue",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Red Chili Durango VCR",
+    "category_a": "-",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "Buy 1 UK size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Durango Lace",
+    "category_a": "-",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "Buy 1 UK size Larger",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Fusion II",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Fusion LV II",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Magnet",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "High",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Red Chili Mystix",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Red Chili Sensor",
+    "category_a": "Drop 2 UK Size",
+    "category_b": "Drop 1.5 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Spirit",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Spirit LV",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Ventic Air Lace",
+    "category_a": "-",
+    "category_b": "-",
+    "category_c": "Drop 1.5 UK Size",
+    "category_d": "Drop 1 UK Size",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Red Chili Voltage",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Voltage 2",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Red Chili Voltage LV",
+    "category_a": "Drop 2 UK Size",
+    "category_b": "Drop 1.5 UK Size",
+    "category_c": "Drop 1 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Arpia",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Booster S",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Booster",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Boostic",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Chimera (2020)",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Chimera",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Drago",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Drago LV",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Drago XT",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Furia Air",
+    "category_a": "Drop 3 EU Sizes",
+    "category_b": "Drop 2.5 EU Sizes",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Furia S",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Furia",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Force V",
+    "category_a": "-",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "High",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Force X",
+    "category_a": "-",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "High",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Force X Wmns",
+    "category_a": "-",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Generator Mid",
+    "category_a": "-",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Drop 0.5 EU Size",
+    "foot_volume": "High",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Instinct VS/VSR",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "-",
+    "foot_volume": "High",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Instinct VS Wmns",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 0.5 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Instinct Lace",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "-",
+    "foot_volume": "High",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Instinct Lace Wmns",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 0.5 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Instinct S",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 0.5 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Instinct SR",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop  EU Sizes",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Maestro",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Maestro Mid",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Sizes",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Maestro Wmns",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Maestro Pro",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "Buy 0.5 Size Bigger",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Maestro Pro Wmns",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "Buy 0.5 Size Bigger",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Maestro Mid",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Maestro Alpine",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Mago",
+    "category_a": "Drop 1 EU Size",
+    "category_b": "Drop 05 EU Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Origin VS",
+    "category_a": "-",
+    "category_b": "Drop 2 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Origin VS Womens",
+    "category_a": "-",
+    "category_b": "Drop 2 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Reflex V",
+    "category_a": "Drop 1.5 EU Sizes",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 0.5 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Vapour Lace Men's",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Vapour Lace Women's",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Vapour S",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Vapour S Women's",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Scarpa Vapour V",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Vapour V LV",
+    "category_a": "Drop 2 EU Sizes",
+    "category_b": "Drop 1.5 EU Sizes",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Veloce",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 2 EU Sizes",
+    "category_c": "Drop 1.5 EU Sizes",
+    "category_d": "Drop 1 EU Size",
+    "foot_volume": "High",
+    "foot_type": "Square"
+  },
+  {
+    "rock_shoe_model": "Scarpa Veloce Wmns",
+    "category_a": "Drop 2.5 EU Sizes",
+    "category_b": "Drop 2 EU Sizes",
+    "category_c": "Drop 1.5 EU Sizes",
+    "category_d": "Drop 1 EU Size",
+    "foot_volume": "Medium",
+    "foot_type": "Square"
+  },
+  {
+    "rock_shoe_model": "Scarpa Velocity V",
+    "category_a": "-",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Scarpa Velocity V Wmns",
+    "category_a": "-",
+    "category_b": "Drop 1 EU Size",
+    "category_c": "Drop 1 EU Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Tenaya Iati",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Tenaya Indalo",
+    "category_a": "Drop 2 UK Size",
+    "category_b": "Drop 1.5 UK Size",
+    "category_c": "Drop 1 UK Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Tenaya Inti",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Tenaya Masai",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "Buy Shoe Size",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Tenaya Mastia",
+    "category_a": "Drop 2.5 UK Sizes",
+    "category_b": "Drop 2 UK Sizes",
+    "category_c": "Drop 1.5 UK size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Tenaya Oasi",
+    "category_a": "Drop 2.5 UK Size",
+    "category_b": "Drop 2 UK Size",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Tenaya Oasi LV",
+    "category_a": "Drop 2.5 UK Size",
+    "category_b": "Drop 2 UK Size",
+    "category_c": "-",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Tenaya Ra",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Tenaya Tarifa",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Classic"
+  },
+  {
+    "rock_shoe_model": "Unparallel Flagship Pro",
+    "category_a": "",
+    "category_b": "",
+    "category_c": "",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Unparallel Up Lace",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Unparallel Up Lace LV",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Unparallel Lyra",
+    "category_a": "Drop 1.5 UK Size",
+    "category_b": "Drop 1 UK Size",
+    "category_c": "Drop 0.5 UK Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Unparallel NewTro Lace",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Unparallel Regulus",
+    "category_a": "Buy Shoe Size",
+    "category_b": "Buy 0.5 UK Size Larger",
+    "category_c": "Buy 1 UK Size Larger",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Unparallel Sirus",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Unparallel Souped UP",
+    "category_a": "Drop 1 UK Size",
+    "category_b": "Drop 0.5 UK Size",
+    "category_c": "Buy Shoe Size",
+    "category_d": "-",
+    "foot_volume": "Low",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Unparallel TN Pro",
+    "category_a": "Drop 0.5 UK Size",
+    "category_b": "Buy Shoe Size",
+    "category_c": "Buy 0.5 UK Size Larger",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Unparallel TN Pro LV",
+    "category_a": "",
+    "category_b": "",
+    "category_c": "",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  },
+  {
+    "rock_shoe_model": "Unparallel Qubit",
+    "category_a": "",
+    "category_b": "",
+    "category_c": "",
+    "category_d": "-",
+    "foot_volume": "Medium",
+    "foot_type": "Centre"
+  }
+]
