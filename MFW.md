@@ -1,6 +1,6 @@
 Lists all shoes JSON:  
 https://mountainfootwearproject.com/api/products/?limit=300  
-- Does not give detailed product info  
+- Does not give detailed product info
   
   
 For individual shoe info:  
