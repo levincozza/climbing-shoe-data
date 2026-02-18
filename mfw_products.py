@@ -131,7 +131,82 @@ def parse_asymmetric_curve(str):
         print(f"'{str}' Unknown -> Defaulting to Medium AsymCurve")
         return AsymCurve.MEDIUM
 
-# TODO: PARSE_CLOSURE_SYSTEM
+def parse_closure_system(str):
+    if "Lace" in str:
+        return ClosureSystem.LACE
+    elif "Velcro" in str:
+        return ClosureSystem.VELCRO
+    elif "Slipper" in str:
+        return ClosureSystem.SLIPPER
+    else:
+        print(f"'{str}' Unknown -> Defaulting to Velcro ClosureSystem")
+        return ClosureSystem.VELCRO
+
+def parse_upper_material(str):
+    if "Synthetic" in str:
+        return UpperMaterial.SYNTHETIC
+    elif "Leather" in str:
+        return UpperMaterial.LEATHER
+    elif "Mixed" in str:
+        return UpperMaterial.MIXED
+    else:
+        print(f"'{str}' Unknown -> Defaulting to Mixed UpperMaterial")
+        return UpperMaterial.MIXED
+
+def parse_lining(str):
+    if "Unlined" in str:
+        return Lining.UNLINED
+    elif "Partial" in str:
+        return Lining.PARTIAL
+    elif "Lined" in str:
+        return Lining.LINED
+    else:
+        print(f"'{str}' Unknown -> Defaulting to Partial Lining")
+        return Lining.PARTIAL
+
+def parse_climbing_style(data):
+    style_set = set()
+
+    if isinstance(data, str):
+        data = [data]
+
+    for item in data:
+        item = item.lower().replace(" ", "-")
+        if "All-around" in item:
+            style_set.add(ClimbingStyle.GENERAL)
+        elif "Bouldering" in item:
+            style_set.add(ClimbingStyle.BOULDERING)
+        elif "Single-pitch" in item:
+            style_set.add(ClimbingStyle.SINGLE_PITCH)
+        elif "Multi-pitch" in item:
+            style_set.add(ClimbingStyle.MULTI_PITCH)
+        elif "Big Wall" in item:
+            style_set.add(ClimbingStyle.BIG_WALL)
+        else:
+            print(f"'{item}' Unknown -> Not defaulting for ClimbingStyle")
+    
+    return style_set
+
+def parse_climbing_grade(data):
+    style_set = set()
+
+    if isinstance(data, str):
+        data = [data]
+
+    for item in data:
+        item = item.lower().replace(" ", "-")
+        if "Beginner" in item:
+            style_set.add(ClimbingGrade.BEGINNER)
+        elif "Intermediate" in item:
+            style_set.add(ClimbingGrade.INTERMEDIATE)
+        elif "Advanced" in item:
+            style_set.add(ClimbingGrade.ADVANCED)
+        else:
+            print(f"'{item}' Unknown -> Not defaulting for ClimbingGrade")
+
+# TODO: TOE SHAPE PARSER    
+
+
 # this is super tedious so here is a response where AI is generating template stuff, it did way too much though so forget a lot of it
 
 def parse_shoe_data(product_api_url, sizing_api_url):
